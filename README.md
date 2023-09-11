@@ -6,4 +6,4 @@ mas lineas
 
 
 # documentacion 
-documentacion del desarrollador 1
+documentación del desarrollador 1
